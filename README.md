@@ -18,9 +18,9 @@ ELPHP Members
 
 Project Manager: Charles Brexie Saturinas
 
-Dominic Restauro
-Jay esplaguera (Alliance)
-Jessalyn Sadili
+Dominic Restauro,
+Jay esplaguera (Alliance),
+Jessalyn Sadili,
 Fretch Hugo
 
 Android Repo Link: https://github.com/CharlesBrexie/ELDROID-Dynamic_Dreamers_7-30-10-30AM.git
