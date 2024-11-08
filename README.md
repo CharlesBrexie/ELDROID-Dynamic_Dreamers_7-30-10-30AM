@@ -8,10 +8,10 @@ ELDROID Members
 
 Project Manager: Charles Brexie T. Saturinas
 
-Jay Esplaguera
-Dominic Restauro
-Butch Nino Butas
-Kevin Cachero
+Jay Esplaguera,
+Dominic Restauro,
+Butch Nino Butas,
+Kevin Cachero,
 William James Janohan
 
 ELPHP Members
